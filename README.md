@@ -8,6 +8,8 @@
 
 _This crypto cold wallet allows secure viewing of all your crypto assets in one place.  No more hassling with multiple wallets to figure out what your funds look like, Action Wallet makes it easy!  Your data is stored securely and no important details are kept, so you do not have to worry about your data being stored for nefarious purposes._
 
+You can see the deployed app [here](https://action-wallet.herokuapp.com/)
+
 ## Setup/Installation Instructions
 
 1. _Clone this project from its [Github repository](https://github.com/entegral/ActionWallet)._
